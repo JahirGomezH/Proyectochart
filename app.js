@@ -1,3 +1,4 @@
+
 fetch('https://coasters-api.herokuapp.com/')
     .then(response => response.json())
     .then(data => printCharts(data))
@@ -130,7 +131,3 @@ function GForceBarsChart(coasters, id) {
     new Chart(id, { type: 'bar', data, options })
 
 }  
-
-import { Mayus } from "./ChartStyles";
-let Saludo =  Mayus ("Hola profe. esto cuenta como import y export");
-console.log(Saludo);
