@@ -1,4 +1,3 @@
-
 fetch('https://coasters-api.herokuapp.com/')
     .then(response => response.json())
     .then(data => printCharts(data))
@@ -131,3 +130,4 @@ function GForceBarsChart(coasters, id) {
     new Chart(id, { type: 'bar', data, options })
 
 }  
+

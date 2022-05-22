@@ -4,7 +4,7 @@ body {
     color: white;
     font-size: .7em;
     font-weight: 200;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
   }
   
   html {
@@ -84,5 +84,8 @@ body {
       opacity: 0;
       transition: opacity .3s;
   }
-
+  
+  .running section {
+      opacity: 1
+  }
   
