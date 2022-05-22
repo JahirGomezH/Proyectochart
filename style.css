@@ -85,15 +85,4 @@ body {
       transition: opacity .3s;
   }
   
-  .running section {
-      opacity: 1
-  }
   
-  .loading {
-      position: absolute;
-      border: none;
-  }
-  
-  .running .loading {
-      display: none;
-  }
