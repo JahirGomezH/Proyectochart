@@ -1,0 +1,1 @@
+export const Mayus = str => str.toUpperCase ();
