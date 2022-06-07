@@ -1,3 +1,21 @@
+header {
+    background: #181f38 !important;
+    font-family: 'Poppins', monospace;
+    color: white;
+    font-size: .7em;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+#navis {
+    text-decoration: none !important;
+    color: #fff;
+    font-size: 3vw;
+}
+
+#afoot {
+    font-size: 2vw !important;
+}
+
 body {
     background: #181f38;
     font-family: 'Poppins', monospace;

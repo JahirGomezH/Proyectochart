@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ChartStyles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JahirGomezH/Proyectochart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JahirGomezH/Proyectochart/issues"
+    
+  },
+  "homepage": "https://github.com/JahirGomezH/Proyectochart#readme"
+
+
+}
