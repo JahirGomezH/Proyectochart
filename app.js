@@ -1,7 +1,9 @@
-
-fetch('https://coasters-api.herokuapp.com/')
+async function loquesea() {
+    await fetch('https://coasters-api.herokuapp.com/')
     .then(response => response.json())
     .then(data => printCharts(data))
+}
+loquesea()
 
 
 
